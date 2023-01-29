@@ -1,5 +1,5 @@
 export default {
-  navigationBarTitleText: '1',
+  navigationBarTitleText: '首页',
   enablePullDownRefresh: false,
   usingComponents: {}
 }
